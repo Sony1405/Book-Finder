@@ -1,0 +1,12 @@
+.app-container {
+  background: linear-gradient(120deg, #fdfbfb, #ebedee); /* subtle gradient */
+  min-height: 100vh;
+  padding: 2rem;
+}
+body {
+  background: linear-gradient(135deg, #dfe9f3 0%, #ffffff 100%); /* soft gradient */
+  min-height: 100vh; /* full height */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
